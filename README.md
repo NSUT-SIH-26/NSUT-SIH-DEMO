@@ -101,14 +101,7 @@ uvicorn src.main:app --reload
 
 Place important screenshots in `assets/screenshots/`.
 
-## Team Members
 
-| Name | Role |
-|---|---|
-| Student 1 | Team Leader / Backend |
-| Student 2 | Machine Learning |
-| Student 3 | Frontend |
-| Student 4 | Testing / Documentation |
 
 ## Future Scope
 
