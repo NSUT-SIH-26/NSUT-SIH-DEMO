@@ -128,17 +128,8 @@ uvicorn src.main:app --reload
 
 Replace these commands with the actual setup and run instructions for your project.
 
-## 13. Team Members
 
-Add your team members and their roles here.
-
-| Name | Roll Number | Role |
-|---|---|---|
-| Member 1 | XXXXX | Team Lead |
-| Member 2 | XXXXX | Developer |
-| Member 3 | XXXXX | Developer / Designer |
-
-## 14. Future Scope
+## 13. Future Scope
 
 Describe realistic improvements or extensions that can be made to the project.
 
